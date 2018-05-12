@@ -1,0 +1,30 @@
+_repo: Fritz-to-the-Front-or-the-Ventriloquist-Scamp-Hunter_37149
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37149-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wheeler, Edward L. (Edward Lytton)
+    aliases:
+    - Wheeler, E. L. (Edward Lytton)
+    - Wheeler, Edward Lytton
+    birthdate: 1854
+    deathdate: 1885
+    gutenberg_agent_id: '5741'
+    url: http://www.gutenberg.org/2009/agents/5741
+description: ''
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Ventriloquists -- Fiction'
+- !lcc 'PS'
+title: Fritz to the Front, or, the Ventriloquist Scamp-Hunter
+url: http://www.gutenberg.org/ebooks/37149
